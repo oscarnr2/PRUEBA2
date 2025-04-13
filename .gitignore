@@ -1,0 +1,16 @@
+# Archivos compilados
+*.pyc
+*.pyo
+__pycache__
+
+# Entornos virtuales
+venv/
+env/
+*.env
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Dependencias de paquetes
+node_modules/
